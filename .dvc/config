@@ -1,0 +1,6 @@
+[core]
+    remote = data
+['remote "data"']
+    url = s3://storage-manager-bugny/dataset
+['remote "model"']
+    url = s3://storage-manager-bugny/model
